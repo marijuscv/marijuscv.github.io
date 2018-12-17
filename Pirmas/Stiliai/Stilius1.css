@@ -1,0 +1,41 @@
+h1 {font-size: 36pt; color: black; text-align: center;}
+body {background-color: #FFE4C4;}
+.pirmapast
+{
+	color:magenta; font-size: 16pt; text-align: center;
+} 
+.antrapast
+{
+	color:orange; font-weight: bold; text-align: center;
+}
+#Vardas
+{
+	color:red; font-size: 12pt; text-align: right; font-weight: bolder;
+}
+.pirmaeil
+{
+	font-size: 20px; color: blue; background-color: #FFA800;
+}
+.antraeil
+{
+	font-size: 25px; color: Blue; background-color: #00E35B;
+}
+a:hover
+{
+	font-size:35pt;
+}
+table 
+{
+	border: 3px solid black; 
+	margin:auto;
+	width:33%;
+	text-align: center; 
+}
+td
+{
+	border: 3px solid black; width: 900px
+}
+tr
+{
+	height: 200px; vertical-align: center
+}
