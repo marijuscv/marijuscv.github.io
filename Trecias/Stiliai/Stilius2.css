@@ -1,0 +1,75 @@
+.infojuosta
+{
+	border: 10px solid black;
+	background-color: black;
+	width: 99%;
+	height: 100px;
+	padding: 0px 0px 0px 30px;
+}
+.background
+{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	justify-content: flex-start;
+	width: 75%; 
+	min-width: 440px;
+	border-right: 5px solid black;
+	border-bottom: 5px solid black;
+	border-left: 5px solid black;
+	margin: auto;
+	padding: 30px;
+}
+.naujienos
+{
+	display: inline-block;
+	border: 5px solid black;
+	margin: 50px;
+	width: 300px;
+	padding: 30px;
+}
+.dezutepaveiksliukas
+{
+	margin: auto;
+	width: 240px;
+	height: 135px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.paveiksliukas1
+{
+	background-image: url(https://g4.dcdn.lt/images/pix/880x550/qK6hQi1HJEA/prokuratura-80067425.jpg);
+}
+.paveiksliukas2
+{
+	background-image: url(https://g4.dcdn.lt/images/pix/880x550/UxxvQFCFoHA/kipras-74496310.jpg);
+}
+.paveiksliukas3
+{
+	background-image: url(https://g3.dcdn.lt/images/pix/880x550/pjqQcQGOb3c/agrorodeo-komanda-2019-uju-dakare-80072553.jpg);
+}
+.dezutetekstas
+{
+	width: 240px;
+}
+body
+{
+	background-color: #faebd7;
+}
+h1
+{
+	font-size: 32pt;
+	color: white;
+	text-align: left;
+	vertical-align: center;
+}
+h2
+{
+	font-size: 16pt;
+	color: black;
+	text-align: center;
+}
+a
+{
+	text-decoration: none;
+}
